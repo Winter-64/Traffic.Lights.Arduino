@@ -1,5 +1,5 @@
 
-// Author: Patrick Zhang
+
 // Purporse: Write a program that simulates traffic lights at a 4 way intersection, 
 // this means repeating the green, yellow and red light for the road going
 // North to south and east to west. As well as implement an "emergency vehicle button" for both directions 
